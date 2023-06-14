@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "phil.h": "c",
+        "time.h": "c",
+        "algorithm": "c"
+    }
+}
